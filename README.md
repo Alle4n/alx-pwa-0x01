@@ -1,4 +1,4 @@
-# ALX Project 0x14 – Movie App (CineSeek)
+# ProWeb Pulse: Mastering PWA Fundamentals – Movie App (CineSeek)
 
 This project is a Next.js-based movie application that consumes the **MoviesDatabase API** from RapidAPI.  
 Users can browse, search, and filter movies by year and genre, with a clean, responsive UI.
